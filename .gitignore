@@ -1,0 +1,10 @@
+node_modules
+
+# OS metadata
+.DS_Store
+
+# Ignore built ts files
+dist/**/*
+
+# keys and secrets
+.env

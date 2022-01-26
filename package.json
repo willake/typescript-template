@@ -1,0 +1,14 @@
+{
+  "name": "typescript-template",
+  "version": "1.0.0",
+  "main": "./dist/main.js",
+  "author": "Willake",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node ./src/main.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "dotenv": "^14.2.0"
+  }
+}
